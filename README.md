@@ -8,3 +8,6 @@ I saw videos on TikTok where some people try to draw random Spotify code. I want
 ```
 pip install opencv-python
 ```
+
+### License
+MIT
