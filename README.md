@@ -8,10 +8,16 @@ This program visualizes Spotify code lists and creates random Spotify codes.
 
 _The bad news is that it doesn't work on random Spotify codes because random Spotify code needs URI and media reference connection. Couldn't figure it out yet. I wrote a **[blog post](https://ozgecinko.medium.com/spotify-kodlar%C4%B1n%C4%B1-i%CC%87nceleyelim-af4a96d7f434)** about that. You can reach me at there or you can contact me._
 
+## Setup 
+### Project Clone
+```
+git clone https://github.com/ozgecinko/SpotifyCodeGenerator.git
+```
+
 ### Library Installation
 ```
 pip install opencv-python
 ```
 
 ### License
-MIT
+- MIT
