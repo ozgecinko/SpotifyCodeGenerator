@@ -5,15 +5,15 @@ import random
 
 class SpotifyCode:
     # read the images
-    zero = cv2.imread('images/0.jpeg')
-    one = cv2.imread('images/1.jpeg')
-    two = cv2.imread('images/2.jpeg')
-    three = cv2.imread('images/3.jpeg')
-    four = cv2.imread('images/4.jpeg')
-    five = cv2.imread('images/5.jpeg')
-    six = cv2.imread('images/6.jpeg')
-    seven = cv2.imread('images/7.jpeg')
-    logo = cv2.imread('images/logo.jpeg')
+    zero = cv2.imread('images/0.png')
+    one = cv2.imread('images/1.png')
+    two = cv2.imread('images/2.png')
+    three = cv2.imread('images/3.png')
+    four = cv2.imread('images/4.png')
+    five = cv2.imread('images/5.png')
+    six = cv2.imread('images/6.png')
+    seven = cv2.imread('images/7.png')
+    logo = cv2.imread('images/logo.png')
 
     img_list = [logo]
     random_lst = list()
